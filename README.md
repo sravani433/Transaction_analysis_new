@@ -22,7 +22,7 @@ pip install pandas numpy scikit-learn matplotlib openpyxl
 
 
 1. **Open the notebook**:  
-   Once Jupyter Notebook is running in your browser, open the file `transac 1(2).ipynb`.
+   Once Jupyter Notebook is running in your browser, open the file `transac_1_(2).ipynb`.
    
    or
    
